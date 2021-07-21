@@ -1,7 +1,5 @@
-from flask import render_template, redirect, url_for
-from application import app, db
-from application.models import Posts
-from application.forms import PostForm
+from flask import render_template
+from application import app
 
 @app.route('/')
 @app.route('/home')

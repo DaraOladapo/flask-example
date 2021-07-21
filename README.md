@@ -1,8 +1,8 @@
-# To-do List App
+# Flask Application
 
 ## Description
 
-This is CRUD application that allows you to set tasks for yourself and then tick them off as you complete them.
+This is is a simple flask app.
 
 ## Dependencies
 
